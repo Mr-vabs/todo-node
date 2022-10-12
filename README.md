@@ -114,6 +114,6 @@ node app.js
 
 ---
 
-- it's initial commit so a lot of left to be updated.
+- it's updated as per requirement for now. Let me know if anything is broken, [click here](https://vabsnode.herokuapp.com/) to see it's deployed version.
 
 [//]:: (Start of README with a markdown comment)
